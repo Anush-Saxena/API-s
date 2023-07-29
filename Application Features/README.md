@@ -1,8 +1,7 @@
-# VibeVerse
 ## REST API
 
 
-End points for the Sign In and Sign Up  
+End points for the API
 
 ### POST Requests
 
